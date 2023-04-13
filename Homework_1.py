@@ -1,6 +1,17 @@
+
 # Name:Seong Jonn Kim
 # SBUID: 115504349
-
+##################### SCORE ######################
+#######  Score:  2/10
+#################################################
+# your output
+# (base) D:\CSE 101 Ass1\Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27>D:/anaconda/python.exe "d:/CSE 101 Ass1/Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27/seongjoon373/Homework_1.py"
+# Sweater -> correct
+# The area of the triangle is : 0.0 , its perimeter is : 11.313708498984761 -->wrong
+# The area of the triangle is : 0.0 , its perimeter is : None-->wrong
+# Enter the value of length side:5
+# Enter the value of number sides:4
+# The area of the polygon is : 16.000000000000004-->wrong
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
