@@ -2,7 +2,7 @@
 # Name:Seong Jonn Kim
 # SBUID: 115504349
 ##################### SCORE ######################
-#######  Score:  2/10
+#######  Score:  6/10
 #################################################
 # your output
 # (base) D:\CSE 101 Ass1\Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27>D:/anaconda/python.exe "d:/CSE 101 Ass1/Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27/seongjoon373/Homework_1.py"
